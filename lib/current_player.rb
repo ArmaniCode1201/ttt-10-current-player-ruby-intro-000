@@ -5,7 +5,7 @@ board.each { |space|
     counter += 1
   end
 }
-
+counter
 end
 
 def current_player(board)
