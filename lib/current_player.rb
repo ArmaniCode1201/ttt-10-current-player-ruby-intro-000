@@ -8,9 +8,6 @@ board.each { |space|
 
 end
 
-
-end
-
 def current_player(board)
 
 
