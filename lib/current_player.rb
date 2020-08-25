@@ -1,2 +1,2 @@
-def current_player(board)
+def current_player(turn_count)
 end
